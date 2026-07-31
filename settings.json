@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BedrorkSMP.aternos.me",
+    "port": 29961,
     "version": "",
     "try-creative": false
   },
